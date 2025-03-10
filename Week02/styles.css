@@ -1,0 +1,59 @@
+.A {
+
+    background-color: aqua;
+    opacity: 0.3;
+    width: 500px;
+    height: 50px;
+    margin: 30px;
+    padding: 100px;
+    opacity: 0.4;
+}
+.B {
+    background-image: url("fish.webp");
+    opacity: 0.3;
+    width: 500px;
+    height: 50px;
+    margin: 30px;
+    padding: 100px;
+    
+}
+
+p.dotted {border-style: dotted;
+border-style: solid;
+border-width: 5px;
+
+}
+
+
+p.dashed {border-style: dashed;
+
+
+border-color: aqua;
+
+
+}
+
+
+
+
+p.solid {border-style: solid;
+
+border-radius: 5px;
+
+
+}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+
+
+.box{ margin: 70px;
+    border: 1px solid black;
+
+
+}
