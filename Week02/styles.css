@@ -57,3 +57,12 @@ p.mix {border-style: dotted dashed solid double;}
 
 
 }
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  
