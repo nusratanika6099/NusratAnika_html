@@ -1,0 +1,31 @@
+h1{
+    color:blue;
+}
+
+p{
+    color: rgb(110, 137, 220);
+}
+
+button{
+    color: rgb(25, 25, 116);
+    background-color: snow;
+}
+
+
+body{
+    background-color: lightgray;
+}
+
+#abc1{
+    
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+.mm{
+    color: rgb(0, 255, 0);
+    background-color: snow;
+}
