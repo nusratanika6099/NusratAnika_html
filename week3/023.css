@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: rgb(13, 11, 11);
+    
+}
+
+
+.navi{
+height: 60px;
+background-color: black;
+
+}
+
+button{
+    background-color: #f004a5;
+
+}
+#logo{
+    color: #f004a5;
+font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+.body{
+width: 1500px;
+height: 500px;
+background-image: url("makeup.webp");
+background-size: cover;
+border: 1px solid palevioletred;
+
+}
+
+p{
+    font-size: 75px;
+    text-transform: uppercase;
+    
+}
+#pk{
+    font-size: medium;
+}
+bt1{
+
+background-color: blueviolet;
+size: 50px;
+
+}
+
+.pro{
+    background-color: pink;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    height: 100px;
+    width: 1500px;
+    border: 1px solid purple;
+}
+
+
+
+.a{
+
+height: 500px;
+width: 1600px;
+background-color: rgb(214, 205, 192);
+margin-top: 10px;
+
+}
+
+.boxb{
+ width: 150px;
+height: 150px;
+
+background-color: rgb(49, 181, 66);
+display: inline-block;
+margin-right: 100px;
+background-image: url("facewash.jpg");
+background-size: cover;
+
+}
+
+.boxa{
+    width: 150px;
+   height: 150px;
+   
+   background-color: rgb(49, 181, 66);
+   display: inline-block;
+   margin-right: 100px;
+   background-size: cover;
+   background-image: url("foundation.jpg");
+
+   }
+   
+
+   .boxc{
+    width: 150px;
+   height: 150px;
+   margin-right: 100px;
+   background-color: rgb(49, 181, 66);
+   display: inline-block;background-size: cover;
+   background-image: url("lip.webp");
+
+
+   }
+
+   .boxd{
+    width: 150px;
+   height: 150px;
+   margin-right: 100px;
+   background-color: rgb(49, 181, 66);
+   display: inline-block;
+
+   background-size: cover;
+   background-image: url("lipstic.webp");
+
+
+
+
+   }
+
+
+
+   .boxe{
+    width: 150px;
+   height: 150px;
+   background-color: rgb(49, 181, 66);
+   display: inline-block;
+   margin-right: 100px;
+   margin-top: 100px;
+
+   background-size: cover;
+   background-image: url("foundation.jpg");
+
+
+
+
+   }
+
+   .boxf{
+    width: 150px;
+   height: 150px;
+   margin-right: 100px;
+   background-color: rgb(49, 181, 66);
+   display: inline-block;
+
+
+   background-size: cover;
+   background-image: url("lipstic.webp");
+
+   }
+
+
+
+
+   .b{
+
+    background-color: pink;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    height: 400px;
+    width: 1550px;
+    border: 1px solid purple;
+
+
+
+   }
+
+   footer{
+    background-color: rgb(122, 100, 100);
+    height: 100PX;
+    width: 1550PX;
+    margin-top: 10px;
+   }
