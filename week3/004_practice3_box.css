@@ -1,0 +1,76 @@
+.practice{
+height: 100px;
+width: 100px;
+background-color: green;
+border-radius: 50%;
+
+}
+
+.traficlight{
+
+    width: 75px;
+    height: 200px;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.red{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-left: 12px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.green{
+    width: 50px;
+    height: 50px;
+    background-color:green;
+    border-radius: 50%;
+    padding: top 10px;
+    margin-left: 12px;
+    margin-top: 15px;
+
+}
+
+
+.yello{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-left: 12px;
+    margin-top: 15px;
+
+}
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.navigation{
+height: 60px;
+background-color: #0f1111;
+margin-top: 100px;
+color: white;
+}
+
+button{
+    color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 30px;
+}
+
+a{
+    margin-right: 200px ;
+}
+
