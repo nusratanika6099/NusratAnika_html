@@ -1,0 +1,40 @@
+.box1{width: 150px;
+    height: 150px;
+    background-color: red;
+    display: inline-block;
+border: 1px solid black;
+background-image: url("food1.jpg");
+background-size: cover;
+}
+
+div{
+
+    height: 500px;
+    width: 1000px;
+    background-color:pink;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+
+.box2{
+
+    width: 100px;
+    height: 100px;
+    background-color:yellow;
+display: inline-block;
+border: 1px solid black;
+}
+
+.box3{
+
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+display: inline-block;
+border: 1px solid black;
+
+
+
+}
