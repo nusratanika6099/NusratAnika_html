@@ -24,10 +24,11 @@ font-size: 25px;
 a{
     margin-right: 200px;
     text-decoration: none;
+    color: white;
 }
 
 .body{
-width: 1500px;
+
 height: 500px;
 background-image: url("makeup.webp");
 background-size: cover;
@@ -43,7 +44,7 @@ p{
 #pk{
     font-size: medium;
 }
-bt1{
+.bt1{
 
 background-color: blueviolet;
 size: 50px;
@@ -56,7 +57,7 @@ size: 50px;
     text-align: center;
     font-size: 25px;
     height: 100px;
-    width: 1500px;
+   
     border: 1px solid purple;
 }
 
@@ -65,7 +66,7 @@ size: 50px;
 .a{
 
 height: 500px;
-width: 1600px;
+width: 100%;
 background-color: rgb(214, 205, 192);
 margin-top: 10px;
 
@@ -163,7 +164,7 @@ background-size: cover;
     text-align: center;
     font-size: 25px;
     height: 400px;
-    width: 1550px;
+   
     border: 1px solid purple;
 
 
@@ -173,6 +174,6 @@ background-size: cover;
    footer{
     background-color: rgb(122, 100, 100);
     height: 100PX;
-    width: 1550PX;
+    width: 100%;
     margin-top: 10px;
    }
