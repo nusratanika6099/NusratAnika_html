@@ -110,14 +110,6 @@ border: none;
 
 
 
-
-
-
-
-
-
-
-
 .sign-in{
     font-size: 0.7rem;
 }
@@ -163,6 +155,74 @@ justify-content: space-evenly;
 .hero-section
 {
     background-image: url("hero.jpg");
-    height: 600px;
+    height: 300px;
     background-size: cover;
+}
+
+
+/** shop **/
+
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:whitesmoke;
+    
+}
+
+.box{
+    width: 23%;
+    height: 350px;
+    background-color: white;
+    padding: 20px 0px 15px ;
+    margin-top: 15PX;
+}
+
+.box1-image{
+    background-image: url("box1.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+
+
+.box-content{
+    margin-left:10PX ;
+    margin-right: 10PX;
+}
+
+.box-content p{
+    color: rgb(9, 51, 96);
+}
+
+
+.box2-image{
+    background-image: url("box2.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.box3-image{
+    background-image: url("box3.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+
+.box4-image{
+    background-image: url("box4.avif");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
 }
