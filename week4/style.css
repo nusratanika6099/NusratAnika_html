@@ -164,6 +164,7 @@ justify-content: space-evenly;
 
 .shop-section{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     background-color:whitesmoke;
     
@@ -183,7 +184,7 @@ justify-content: space-evenly;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     
 }
 
@@ -204,7 +205,7 @@ justify-content: space-evenly;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     
 }
 .box3-image{
@@ -213,7 +214,7 @@ justify-content: space-evenly;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     
 }
 
@@ -223,6 +224,131 @@ justify-content: space-evenly;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+
+.box5-image{
+    background-image: url("box5.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box6-image{
+    background-image: url("box6.webp");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box7-image{
+    background-image: url("box7.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box8-image{
+    background-image: url("box8.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+
+.box9-image{
+    background-image: url("box9.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+
+.box10-image{
+    background-image: url("box10.avif");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+
+.box11-image{
+    background-image: url("box11.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box12-image{
+    background-image: url("box12.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box13-image{
+    background-image: url("box13.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box14-image{
+    background-image: url("box14.webp");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+.box15-image{
+    background-image: url("box15.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    
+}
+
+
+.box16-image{
+    background-image: url("box16.jpg");
+    height:300px ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
     
 }
