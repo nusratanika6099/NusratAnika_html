@@ -71,9 +71,6 @@ margin-left: 3px;
 }
 
 
-
-
-
 .search-icon{
     color: rgb(10, 2, 3);
     background-color: orange;
@@ -105,9 +102,6 @@ font-size: larger;
 border: none;
 
 }
-
-
-
 
 
 .sign-in{
@@ -427,4 +421,10 @@ font-size: 0.85rem;
     cursor: pointer;
     display: flex;
     margin-right: 20px;
+}
+
+@media only screen and (max-width:600px
+)
+{ 
+    body{ text-align: center;}
 }
